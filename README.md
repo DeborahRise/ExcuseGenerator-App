@@ -4,10 +4,13 @@ Hillarious right?! I know! Let me take you through this fun App.
 # About The App
 Now you no longer an Excuse not to have an Excuse with this Excuse generator App.
 
-For now, this App can only help you generate excuses for 3 aspects of your life:
+For now, this App can only help you generate excuses for 6 aspects of your life:
 - Work
 - Family
 - Party
+- Developers
+- Funny
+- College
 
 We will cover more areas in the near future so you will never be without excuses whatever the situation. lol!
 
