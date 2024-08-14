@@ -18,4 +18,11 @@ Click on any of the buttons that suits the excuse that you are trying to generat
 For this App, the excuses are generated using an API '`https://excuser-three.vercel.app/v1/excuse/${excuseee}`'
 My thinking is, based on statistics and some kind of questionnaire, various excuses have been collected stored in a database and now we have access to this DB using an API.
 
+## Teaser
+The is one excuse I really Love:
+"[{"id":514,"excuse":"I saw many strangers following my car so I took the longest route possible to reach today.","category":"funny"}]"
+
+- **P.S**
+The excuses are returned as an object, so I had to use the dot notation to target the actual excuse
+
 Check it Out
